@@ -1,0 +1,165 @@
+#body
+{
+    font-family: "Montserrat";
+}
+#app
+{
+    background-color: #ff4c68;
+}
+
+#title
+{
+    font-family: 'Montserrat-black';
+    padding-bottom: 2rem;  
+    font-size: 3rem;
+    line-height: 1.5;
+    color: white;
+}
+
+
+.con
+{
+    padding: 3% 8%;
+    margin-left: 8%;
+    padding-top: 4.5rem;  
+    
+}
+
+/* navigation bar*/
+.navbar-brand
+{
+   
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-link
+{
+    font-size: 1rem;
+}
+.download-button
+{
+    margin: 0 2% 0 2%;
+}
+#car
+{
+    width: 45%;
+   
+}
+#feautures
+{
+    margin: 10% 4%;
+    text-align: center;
+   
+}
+   
+#feautures-title
+{
+    font-weight: bold;
+    font-family: 'Montserrat'
+}
+#feautures-icon
+{
+    margin-bottom: 4%;
+    color: rgb(245, 150, 182);
+}
+#feautures-icon:hover
+{
+    color:#ff4c68
+}
+#carousel
+{
+    background-color:#ff4c68;
+    text-align: center;
+    padding-top: 3%;
+    color: white;
+}
+#types-images
+{
+    border-radius: 100%;
+    
+}
+#types-heading
+{
+    font-family: 'Montserrat-black';
+    font-size: 2.5rem;
+     margin-bottom: 3%;
+     
+}
+em{
+    color: white;
+}
+.car-logos
+{
+    width: 100px;
+    height:75px;
+  
+}
+
+#car-logo-images
+{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 4% 4%;
+}
+#pricing-heading
+{
+    font-family: 'Montserrat-black';
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2%;
+}
+#pricing
+{
+    padding: 4% 3% ;
+}
+.card-heading
+{
+    text-align: center;
+}
+.card-text
+{
+    color: grey;
+}
+#contact
+{
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 7% 15%;
+    line-height: 2rem;
+    color: white;
+}
+#download-btn
+{
+    margin-top: 3%;
+}
+#footer
+{
+    padding: 4% 15%;
+    text-align: center;
+}
+.footer-icons
+{
+    margin-bottom: 3%;
+}
+#social-icons
+{
+     margin: 0 2px 0 2px;
+}
+
+@media (max-width:1028px)
+ {
+     #car
+     {
+        margin-top: 8%;
+     }
+  .con
+  {
+      text-align: center;
+     
+  }  
+  #types-images
+  {
+      text-align: center;
+  }
+}
